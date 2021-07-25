@@ -116,12 +116,16 @@ body {
     width: 100%;
     height: auto;
     min-height: 35rem;
-    padding: 15rem 0;
+    padding: 8rem 0;
     background: linear-gradient(to bottom, rgba(255, 255, 255, 0.11) 0%, rgba(248, 248, 248, 0.534) 75%, #ffff 100%), url("../img/bg-header.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
+}
+
+.header.masthead {
+
 }
 
 
